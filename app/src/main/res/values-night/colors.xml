@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="screenBackgroundColor">#2B2B2B</color>
+    <color name="noteTitleColor">#FFFFFF</color>
+    <color name="noteCardBackground">#000000</color>
+    <color name="notePriorityLowColor">#92CF94</color>
+    <color name="notePriorityMediumColor">#FFB13E</color>
+    <color name="notePriorityHighColor">#F85C51</color>
+    <color name="noteCheckColor">#4B9AFB</color>
+
+</resources>

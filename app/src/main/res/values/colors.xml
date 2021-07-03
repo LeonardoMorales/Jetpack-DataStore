@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="screenBackgroundColor">#F6F6F6</color>
+    <color name="noteTitleColor">#000000</color>
+    <color name="noteCardBackground">#ffffff</color>
+    <color name="notePriorityLowColor">#4CAF50</color>
+    <color name="notePriorityMediumColor">#FF9800</color>
+    <color name="notePriorityHighColor">#F44336</color>
+    <color name="noteCheckColor">#0B6FEA</color>
 </resources>
